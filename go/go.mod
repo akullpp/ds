@@ -1,0 +1,3 @@
+module github.com/akullpp/ds/go
+
+go 1.21.3
